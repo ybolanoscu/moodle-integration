@@ -1,0 +1,14 @@
+form span.tablenav-pages-navspan, form a[class$="page"], form .tablenav .tablenav-pages a.next-page, form .tablenav .tablenav-pages a.prev-page {
+    padding: 12px;
+    height: auto !important;
+    line-height: 0;
+}
+
+form input#current-page-selector {
+    padding-bottom: 0;
+}
+
+.shop_table .badge {
+    font-size: 14px;
+    padding: 3px;
+}

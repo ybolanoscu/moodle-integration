@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-21 16:35-0400\n"
+"PO-Revision-Date: 2018-07-21 16:36-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: admin/ApplicantTable.php:154
+msgid "Unable to process empty request."
+msgstr "No es posible procesar una perición vacía."
+
+#: admin/ApplicantTable.php:217
+msgid "Unable to deny a unapproved applicant."
+msgstr "No es posible denegar un aplicante que no ha sido aprobado."
+
+#: admin/ApplicantTable.php:251
+msgid "All done."
+msgstr "Todo listo."
+
+#: admin/MIAdmin.php:67 admin/MIAdmin.php:68
+msgid "DevYai"
+msgstr "ADAVED"
+
+#: admin/MIAdmin.php:76 admin/MIAdmin.php:77 common.php:347
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: admin/MIAdmin.php:133
+msgid "Saved"
+msgstr "Guardado"
+
+#: admin/Moodle.php:57
+msgid "Unable to communicate to Moodle using current configuration."
+msgstr "No se pudo realizar la comunicación con el Moodle."
+
+#: admin/Moodle.php:91 admin/Moodle.php:116
+msgid "Unable to get data from moodle."
+msgstr "No se pudieron obtener datos de moodle."
+
+#: admin/Moodle.php:138
+msgid "Unable to load students from moodle."
+msgstr "No se pudo cargar los estudiantes del moodle."
+
+#: admin/Moodle.php:159
+msgid "Unable to load categories from moodle."
+msgstr "No se pudieron cargar las categorias del moodle."
+
+#: admin/Moodle.php:190
+msgid "Unable to enrol user to moodle courses."
+msgstr "No se pudo enrolar al usuario en los cursos del moodle."
+
+#: admin/Moodle.php:220 admin/Moodle.php:238
+msgid "Unable to unenrol uset to moodle courses."
+msgstr "No se pudo desenrolar al usuario de los cursos del moodle."
+
+#: admin/Moodle.php:257
+msgid "Unable to load evaluations from moodle courses."
+msgstr "No se pudo cargar las evaluaciones de los cursos del moodle."
+
+#: admin/Moodle.php:280
+msgid "Unable to load activities completion from moodle courses."
+msgstr "No se puede cargar la finalización de actividades de los cursos de moodle."
+
+#: admin/Moodle.php:302
+msgid "Unable to load groups from moodle courses."
+msgstr "No se pudo cargar los grupos de los cursos del moodle."
+
+#: admin/Moodle.php:321 admin/Moodle.php:341 admin/Moodle.php:359
+#: admin/Moodle.php:380
+msgid "Unable to create groups on moodle courses."
+msgstr "No se pudieron crear los grupos de los cursos del moodle."
+
+#: admin/Moodle.php:436
+msgid "Unable to get moodle courses."
+msgstr "No se pudo obtener los cursos del moodle."
+
+#: admin/Moodle.php:455
+msgid "Unable to get grades of moodle courses."
+msgstr "No se pudo cargar las evaluaciones de los cursos del moodle."
+
+#: common.php:100
+msgid "Course not found on the system. Please reload and try again."
+msgstr "No se ha econtrado el curso. Por favor recargue e intene de nuevo."
+
+#: common.php:283
+msgid "Your account on "
+msgstr "Su cuenta en "
+
+#: frontend/MIFront.php:243 frontend/views/my-students.html.php:8
+msgid "My Students"
+msgstr "Mis Estudiantes"
+
+#: frontend/MIFront.php:246 frontend/MIFront.php:250
+#: frontend/views/enrol-courses.html.php:8
+msgid "Courses"
+msgstr "Cursos"
+
+#: frontend/MIFront.php:247 frontend/views/my-paths.html.php:25
+#: frontend/views/path-requests.html.php:17
+msgid "Path Requests"
+msgstr "Solicitudes de Rutas"
+
+#: frontend/MIFront.php:251
+msgid "Incomming Courses"
+msgstr "Cursos Entrantes"
+
+#: frontend/MIFront.php:254 frontend/views/my-paths.html.php:17
+msgid "My Paths"
+msgstr "Mis Rutas"
+
+#: frontend/MIFront.php:255 frontend/views/my-courses.html.php:8
+msgid "My Courses"
+msgstr "Mis Cursos"
+
+#: frontend/MIFront.php:256 frontend/views/my-evaluations.html.php:1
+msgid "My Evaluations"
+msgstr "Mis Evaluaciones"
+
+#: frontend/MIFront.php:259
+msgid "Course Status"
+msgstr "Estado de los Cursos"
+
+#: frontend/MIFront.php:260
+msgid "Category Status"
+msgstr "Estados de las Categorías"
+
+#: frontend/MIFront.php:265
+msgid "Logout"
+msgstr "Cerrar Sesión"
+
+#: frontend/views/course-incoming.html.php:7
+msgid "Course Incoming"
+msgstr "Curso Entrante"
+
+#: frontend/views/course-incoming.html.php:14
+#: frontend/views/my-courses.html.php:15
+#: frontend/views/my-evaluations.html.php:8
+#: frontend/views/my-students.html.php:17
+msgid "Name"
+msgstr "Nombre"
+
+#: frontend/views/course-incoming.html.php:15
+#: frontend/views/courses-not-ready.html.php:11
+#: frontend/views/courses-not-ready.html.php:41
+#: frontend/views/courses-not-ready.html.php:82
+#: frontend/views/courses-not-ready.html.php:83
+#: frontend/views/enrol-courses.html.php:15
+#: frontend/views/my-evaluations.html.php:10
+msgid "Start Date"
+msgstr "Fecha de Inicio"
+
+#: frontend/views/course-incoming.html.php:16
+#: frontend/views/courses-not-ready.html.php:12
+#: frontend/views/courses-not-ready.html.php:48
+#: frontend/views/courses-not-ready.html.php:86
+#: frontend/views/courses-not-ready.html.php:87
+#: frontend/views/enrol-courses.html.php:16
+#: frontend/views/my-evaluations.html.php:11
+msgid "End Date"
+msgstr "Fecha de Fin"
+
+#: frontend/views/course-incoming.html.php:17
+msgid "Enrollments"
+msgstr "Participantes"
+
+#: frontend/views/course-incoming.html.php:18
+msgid "Incomings"
+msgstr "Entrantes"
+
+#: frontend/views/course-incoming.html.php:35
+msgid "No Courses"
+msgstr "No hay Cursos"
+
+#: frontend/views/courses-not-ready.html.php:1
+msgid "Courses Status"
+msgstr "Estado de los Cursos"
+
+#: frontend/views/courses-not-ready.html.php:8
+msgid "Category"
+msgstr "Categoría"
+
+#: frontend/views/courses-not-ready.html.php:9
+msgid "Course Name"
+msgstr "Nombre del Curso"
+
+#: frontend/views/courses-not-ready.html.php:10
+#: frontend/views/courses-not-ready.html.php:78
+#: frontend/views/courses-not-ready.html.php:79
+msgid "Price"
+msgstr "Precio"
+
+#: frontend/views/courses-not-ready.html.php:70
+msgid "Edit Course"
+msgstr "Editar Curso"
+
+#: frontend/views/courses-not-ready.html.php:75
+#: frontend/views/courses-not-ready.html.php:122
+msgid "Please check the values"
+msgstr "Por favor chequee sus datos."
+
+#: frontend/views/courses-not-ready.html.php:92
+#: frontend/views/courses_by_user_modal.html.php:28
+msgid "Close"
+msgstr "Cerrar"
+
+#: frontend/views/courses-not-ready.html.php:93
+msgid "Save"
+msgstr "Guardar"
+
+#: frontend/views/enrol-courses.html.php:14
+#: frontend/views/my-courses.html.php:16 frontend/views/my-students.html.php:18
+msgid "Fullname"
+msgstr "Nombre Completo"
+
+#: frontend/views/enrol-courses.html.php:17
+msgid "Students"
+msgstr "Estudiantes"
+
+#: frontend/views/enrol-courses.html.php:18
+#: frontend/views/my-courses.html.php:20
+msgid "Grades Avg"
+msgstr "Prom. Notas"
+
+#: frontend/views/enrol-courses.html.php:36
+#: frontend/views/my-courses.html.php:38
+#: frontend/views/my-evaluations.html.php:35
+#: frontend/views/my-paths.html.php:48 frontend/views/my-students.html.php:39
+msgid "You have no active enrollments"
+msgstr "Usted no tiene participaciones activas."
+
+#: frontend/views/my-courses.html.php:17
+msgid "StartDate"
+msgstr "Fecha de Inicio"
+
+#: frontend/views/my-courses.html.php:18
+msgid "EndDate"
+msgstr "Fecha de Fin"
+
+#: frontend/views/my-courses.html.php:19
+msgid "Progress"
+msgstr "Progreso"
+
+#: frontend/views/my-evaluations.html.php:9
+msgid "Last name"
+msgstr "Apellido"
+
+#: frontend/views/my-paths.html.php:24 frontend/views/path-requests.html.php:24
+msgid "Date"
+msgstr "Fecha"
+
+#: frontend/views/my-paths.html.php:26
+msgid "State"
+msgstr "Estado"
+
+#: frontend/views/my-students.html.php:19
+msgid "Last Access"
+msgstr "Último Acceso"
+
+#: frontend/views/path-requests.html.php:25
+msgid "Path Request"
+msgstr "Solicitar de Ruta"
+
+#: frontend/views/path-requests.html.php:26
+msgid "Status"
+msgstr "Estado"
+
+#: frontend/views/path-requests.html.php:48
+msgid "You have no path requests"
+msgstr "Uste no tiene solicitudes de Rutas"
+
+#~ msgid "Mis Estudiantes"
+#~ msgstr "Mis Estudiantes"
+
+#~ msgid "Cursos"
+#~ msgstr "Cursos"
+
+#~ msgid "Peticiones de Rutas"
+#~ msgstr "Peticiones de Rutas"
+
+#~ msgid "Curso Entrante"
+#~ msgstr "Curso Entrante"
+
+#~ msgid "Mis Rutas"
+#~ msgstr "Mis Rutas"
+
+#~ msgid "Mis Cursos"
+#~ msgstr "Mis Cursos"
+
+#~ msgid "Mis Evaluaciones"
+#~ msgstr "Mis Evaluaciones"
+
+#~ msgid "Estado de Cursos"
+#~ msgstr "Estado de Cursos"
+
+#~ msgid "Estado de Categorias"
+#~ msgstr "Estado de Categorias"
+
+#~ msgid "Account Details"
+#~ msgstr "Editar Cuenta"
